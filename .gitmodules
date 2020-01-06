@@ -1,3 +1,6 @@
 [submodule "KotlinListViewwithadapter"]
 	path = KotlinListViewwithadapter
 	url = https://github.com/eyadwin/KotlinListViewwithadapter.git
+[submodule "LayoutTest"]
+	path = LayoutTest
+	url = https://github.com/eyadwin/LayoutTest.git
