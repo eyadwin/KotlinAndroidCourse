@@ -4,3 +4,6 @@
 [submodule "LayoutTest"]
 	path = LayoutTest
 	url = https://github.com/eyadwin/LayoutTest.git
+[submodule "KotlinIntent"]
+	path = KotlinIntent
+	url = https://github.com/eyadwin/KotlinIntent.git
