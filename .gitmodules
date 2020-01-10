@@ -16,3 +16,6 @@
 [submodule "KotlinJSON"]
 	path = KotlinJSON
 	url = https://github.com/eyadwin/KotlinJSON.git
+[submodule "KotlinCatPicAPI"]
+	path = KotlinCatPicAPI
+	url = https://github.com/eyadwin/KotlinCatPicAPI.git
