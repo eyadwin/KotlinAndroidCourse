@@ -13,3 +13,6 @@
 [submodule "KotlinStopWatch"]
 	path = KotlinStopWatch
 	url = https://github.com/eyadwin/KotlinStopWatch.git
+[submodule "KotlinJSON"]
+	path = KotlinJSON
+	url = https://github.com/eyadwin/KotlinJSON.git
