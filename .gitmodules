@@ -10,3 +10,6 @@
 [submodule "KotlinWebIntent"]
 	path = KotlinWebIntent
 	url = https://github.com/eyadwin/KotlinWebIntent.git
+[submodule "KotlinStopWatch"]
+	path = KotlinStopWatch
+	url = https://github.com/eyadwin/KotlinStopWatch.git
