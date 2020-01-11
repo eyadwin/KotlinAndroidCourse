@@ -19,3 +19,6 @@
 [submodule "KotlinCatPicAPI"]
 	path = KotlinCatPicAPI
 	url = https://github.com/eyadwin/KotlinCatPicAPI.git
+[submodule "KotlinNoteAppSimple"]
+	path = KotlinNoteAppSimple
+	url = https://github.com/eyadwin/KotlinNoteAppSimple.git
