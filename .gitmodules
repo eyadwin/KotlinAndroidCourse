@@ -22,3 +22,6 @@
 [submodule "KotlinNoteAppSimple"]
 	path = KotlinNoteAppSimple
 	url = https://github.com/eyadwin/KotlinNoteAppSimple.git
+[submodule "KotlinFirebase"]
+	path = KotlinFirebase
+	url = https://github.com/eyadwin/KotlinFirebase.git
