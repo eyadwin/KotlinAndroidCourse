@@ -25,3 +25,6 @@
 [submodule "KotlinFirebase"]
 	path = KotlinFirebase
 	url = https://github.com/eyadwin/KotlinFirebase.git
+[submodule "KotlinLocalization"]
+	path = KotlinLocalization
+	url = https://github.com/eyadwin/KotlinLocalization.git
