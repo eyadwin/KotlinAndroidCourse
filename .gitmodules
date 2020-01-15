@@ -28,3 +28,6 @@
 [submodule "KotlinLocalization"]
 	path = KotlinLocalization
 	url = https://github.com/eyadwin/KotlinLocalization.git
+[submodule "KotlinMaps"]
+	path = KotlinMaps
+	url = https://github.com/eyadwin/KotlinMaps.git
