@@ -34,3 +34,6 @@
 [submodule "ageCalculator"]
 	path = ageCalculator
 	url = https://github.com/eyadwin/ageCalculator.git
+[submodule "KotlinRestaurantApp"]
+	path = KotlinRestaurantApp
+	url = https://github.com/eyadwin/KotlinRestaurantApp.git
