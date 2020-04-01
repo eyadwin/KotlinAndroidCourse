@@ -37,3 +37,6 @@
 [submodule "KotlinRestaurantApp"]
 	path = KotlinRestaurantApp
 	url = https://github.com/eyadwin/KotlinRestaurantApp.git
+[submodule "ActionBar_Simple"]
+	path = ActionBar_Simple
+	url = https://github.com/eyadwin/ActionBar_Simple.git
