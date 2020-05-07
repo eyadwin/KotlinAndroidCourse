@@ -40,3 +40,6 @@
 [submodule "ActionBar_Simple"]
 	path = ActionBar_Simple
 	url = https://github.com/eyadwin/ActionBar_Simple.git
+[submodule "Kotlin_SQlite"]
+	path = Kotlin_SQlite
+	url = https://github.com/eyadwin/Kotlin_SQlite.git
